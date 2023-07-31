@@ -1,0 +1,1 @@
+enum HiveBoxes { previewMessages, dialogDataList }
